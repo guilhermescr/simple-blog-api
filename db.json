@@ -1,3 +1,7 @@
 {
-  "comments": []
+  "blog": {
+    "comments": [],
+    "posts": [],
+    "users": []
+  }
 }
